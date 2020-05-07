@@ -1,0 +1,15 @@
+* {
+  outline: 1px dotted red;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: gray;
+  height: 768px;
+  width: 960px;
+}
+
+header footer {
+  height: 100px;
+}
+
